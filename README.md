@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Chandra%20Kiran%20Malkapuram&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20AI%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/chandra-kiran-malkapuram/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+production+AI+%26+DevOps+systems;React+%C2%B7+Python+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+CI%2FCD;Currently+shipping+CerevakyaNet+%E2%80%94+multilingual+TTS;London,+UK+%F0%9F%87%AC%F0%9F%87%A7&font=Fira+Code&center=true&width=650&height=45&color=00C6FF&vCenter=true&size=22&pause=1800"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+production+AI+%26+DevOps+systems;React+%C2%B7+Python+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+CI%2FCD;Currently+Retail assistent+%E2%80%94+multilingual+TTS;London,+UK+%F0%9F%87%AC%F0%9F%87%A7&font=Fira+Code&center=true&width=650&height=45&color=00C6FF&vCenter=true&size=22&pause=1800"/>
 </a>
 
 <br/>
