@@ -21,7 +21,7 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/gif3.gif"/>
 
-- 🔭 Currently building **CerevakyaNet** — a multilingual Text-to-Speech engine covering all 22 scheduled Indian languages + English, with a production CI/CD pipeline shipped on **Azure Container Apps**
+- 🔭 Currently building **Retailassistant** — a multilingual Text-to-Speech engine covering all 22 scheduled Indian languages + English, with a production CI/CD pipeline shipped on **Azure Container Apps**
 - ⚙️ Designing an **Intelligent Location Recovery Assistant** for warehouse stock discrepancy resolution using phonetic-similarity confidence scoring
 - 🌱 Deepening skills in DevOps, Kubernetes, and observability
 - 💬 Ask me about CI/CD pipelines, Azure infra, React/FastAPI apps, or Telugu-flavored creative web builds
